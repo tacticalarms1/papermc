@@ -1,1 +1,1 @@
-i just htmlifiyed this and tryed to host it
+hey guys this is paper mc but u can host to github pages
